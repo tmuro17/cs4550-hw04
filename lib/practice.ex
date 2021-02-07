@@ -17,8 +17,18 @@ defmodule Practice do
   end
 
   def factor(x) do
+    # This is more complex, delegate to lib/practice/calc.ex
     Practice.Factor.factor(x)
   end
 
-  # TODO: Add a palindrome? function.
+  def palindrome(x) do
+    filtered = x
+               |> String.upcase
+               |> String.graphemes
+               |> Enum.filter(fn c -> c != " " end)
+
+    reversed = Enum.reverse filtered
+
+    filtered == reversed
+  end
 end
