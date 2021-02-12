@@ -1,0 +1,43 @@
+Please fill in answers to the questions below:
+
+
+1. What's your name?
+
+Tanner Muro
+
+2. What hostname did you deploy your app to?
+
+hw04.tmuro17.xyz
+
+3. What's the URL of your git for this assignment?
+
+https://github.com/tmuro17/cs4550-hw04
+
+4. How much of the functionality did you complete?
+
+All of it.
+
+5. Did you successfully deploy? If not, what's broken?
+
+Yes
+
+6. How comfortable do you feel with Elixir now?
+
+Fairly comfortable, will need to check to docs to confirm
+certain functions, etc
+
+7. Which parts of this assignment did you have trouble with, if any?
+
+The syntax of Elixir is just far enough away from Haskell in order
+to drive me crazy.  Haskell is the functional language that I
+have the most experience with.
+
+And here's a list of tasks for grading comments. Just leave this here:
+ - Task 1
+ - Task 2
+ - Task 3
+ - Task 4
+ - Task 5
+ - Task 6
+ - Task 7
+ - Task 8
